@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frm_flow", "Frm_flow\Frm_flow.csproj", "{09C27FC0-14EF-493A-896B-0171AD0F2210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C27FC0-14EF-493A-896B-0171AD0F2210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C27FC0-14EF-493A-896B-0171AD0F2210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C27FC0-14EF-493A-896B-0171AD0F2210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C27FC0-14EF-493A-896B-0171AD0F2210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35EC89C-4044-4CED-B7F4-0153EFC5523A}
+	EndGlobalSection
+EndGlobal
