@@ -63,7 +63,7 @@ namespace Frm_flow
             {
                 xxx *= -1;
             }
-            if ((label1.Left) < 0)
+             if ((label1.Left) < 0)
             { 
                 xxx *= -1; 
             }
@@ -71,7 +71,7 @@ namespace Frm_flow
             {
                 yyy *= -1;
             }
-            if ((label1.Top) < 0)
+             if ((label1.Top) < 0)
             {
                 yyy *= -1;
             }

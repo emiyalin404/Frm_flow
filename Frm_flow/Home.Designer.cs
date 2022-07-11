@@ -48,7 +48,7 @@ namespace Frm_flow
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(38, 34);
+            this.button1.Location = new System.Drawing.Point(38, 33);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(119, 26);
